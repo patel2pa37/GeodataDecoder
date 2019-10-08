@@ -1,5 +1,7 @@
 "copy and pasted from: https://stackoverflow.com/questions/2922532/obtain-latitude-and-longitude-from-a-geotiff-file"
 
+"obtain lat and long from tif"
+
 from osgeo import osr, gdal
 
 # get the existing coordinate system
